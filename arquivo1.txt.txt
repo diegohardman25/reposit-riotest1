@@ -1,6 +1,6 @@
 Faculdade uniesp
 Curso: Ciência da Computação 
-Disciplina: Tópicos essências em programação 
+Disciplina: introdução a programação
 Nome: Diego Henrique Ferreira Hardman
 
 Resposta da Lista de Exercícios
@@ -11,4 +11,13 @@ Questão 01
 
 Questão 02
 
-Questão 03
+
+
+
+Questão 04
+
+Questão 05
+
+Questão 06
+
+Questão 10
